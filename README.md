@@ -8,4 +8,4 @@
 
 OS: Windows - (7/8/8.1/10/11)
 
-![image](https://user-images.githubusercontent.com/79506370/203881196-d03ac12d-a20d-4f74-9009-2c8300391105.png)
+![image](https://user-images.githubusercontent.com/79506370/203881225-2413607d-b31d-46ee-b78f-d6288e106696.png)
