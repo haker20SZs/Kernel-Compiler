@@ -7,3 +7,5 @@
 5 - 10 секунд и ядро собрано                      
 
 OS: Windows - (7/8/8.1/10/11)
+
+![image](https://user-images.githubusercontent.com/79506370/203881196-d03ac12d-a20d-4f74-9009-2c8300391105.png)
